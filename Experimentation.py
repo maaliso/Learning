@@ -1,0 +1,3 @@
+input ("Put input"
+       ">")
+list []
